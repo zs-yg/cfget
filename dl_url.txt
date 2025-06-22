@@ -1,0 +1,1 @@
+kortapp-z:https://ghproxy.net/https://github.com/zs-yg/kortapp-z/releases/download/v1.0.4/kortapp-z_x64_v1.0.4.7z
